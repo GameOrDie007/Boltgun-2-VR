@@ -1,0 +1,19 @@
+Boltgun 2 VR: credits
+
+Boltgun 2 VR is a Game Or Die project.
+
+UEVR (the Universal Unreal Engine VR mod) by praydog, https://github.com/praydog/UEVR,
+in the build by joeyhodge that runs Unreal Engine 5.7 games, https://github.com/joeyhodge/UEVR.
+UEVR is not part of this download: Setup downloads it from joeyhodge's release page.
+Our plugin (plugins\boltgun2vr_meshfill.dll) is built against UEVR's plugin API headers
+(API.h, MIT license, Copyright (c) 2023 praydog).
+
+Chainsword model: "Wh-40k-chainsword" by Kaiser-E,
+https://sketchfab.com/3d-models/wh-40k-chainsword-2976e3debf33494a831253b160f7d2c9
+Licensed under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
+Changes: converted from glTF, turned, scaled to 95 cm, re-centred on the grip, back faces
+added, and the 24 chain teeth separated so the chain can run.
+
+Warhammer 40,000: Boltgun 2 by Auroch Digital, published by Focus Entertainment.
+Warhammer 40,000 is a trademark of Games Workshop. This mod is not affiliated with or
+endorsed by them, and contains none of the game's files.
