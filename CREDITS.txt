@@ -5,7 +5,7 @@ Boltgun 2 VR is a Game Or Die project.
 UEVR (the Universal Unreal Engine VR mod) by praydog, https://github.com/praydog/UEVR,
 in the build by joeyhodge that runs Unreal Engine 5.7 games, https://github.com/joeyhodge/UEVR.
 UEVR is not part of this download: Setup downloads it from joeyhodge's release page.
-Our plugin (plugins\boltgun2vr_meshfill.dll) is built against UEVR's plugin API headers
+The plugin (plugins\boltgun2vr_meshfill.dll) is built against UEVR's plugin API headers
 (API.h, MIT license, Copyright (c) 2023 praydog).
 
 Chainsword model: "Wh-40k-chainsword" by Kaiser-E,

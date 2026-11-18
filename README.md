@@ -16,7 +16,7 @@ Boltgun 2 VR is a Game Or Die project that brings Warhammer 40,000: Boltgun 2 in
 
 Updating keeps your saves and settings.
 
-**Installing by hand:** download `Boltgun-2-VR-1.0-PCVR.zip` from the latest release, unzip it,
+**Installing by hand:** download `Boltgun-2-VR-1.1-PCVR.zip` from the latest release, unzip it,
 and double click `Setup.bat`. Then start the game with the **Boltgun 2 VR** shortcut on your
 desktop, or `Boltgun 2 VR.cmd` in the game's `VR` folder.
 
@@ -31,6 +31,8 @@ SteamVR or the Meta Quest Link app, and Windows 10 or 11.
   shell casings come out of the gun.
 - The game's own crosshair sits where your shot will land and sizes itself to the distance.
 - Recoil you can see, and the controller buzzes with every shot.
+- Dual-wield pistols sit one in each hand. To move the guns closer to your hand or further out,
+  use the UEVR menu (Guns back towards the hand).
 - A 3D chainsword in your left hand with a running chain. Hold the left trigger to rev it and
   swing. In the UEVR menu you can choose to show it only while you use it.
 - Smoother in VR: UEVR renders at 80% resolution (UEVR menu, Resolution Scale). For more frames,
@@ -67,7 +69,7 @@ headsets and controllers should work through UEVR but have not been played yet.
 
 Press **UNINSTALL** in the installer, or run `Uninstall.bat` in the game's `VR` folder. Your saves
 and your UEVR settings for the game are kept. Something not working? Run `Collect logs.bat` there
-and send us the zip it puts on your desktop.
+and send the zip it puts on your desktop to Game Or Die on Discord.
 
 ## Credits
 
